@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj": {}
+  },
+  "projects": {
+    "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj",
+        "projectName": "TierBlog-WebUI-Site",
+        "projectPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj",
+        "packagesPath": "C:\\Users\\canca\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj": {
+                "projectPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EnterpriseLibrary.Data": {
+              "target": "Package",
+              "version": "[6.0.1304, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.Extensions": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.Host": {
+              "target": "Package",
+              "version": "[1.1.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.16, )"
+            },
+            "Microsoft.Web.Infrastructure": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj",
+        "projectName": "TierBlog.WebUI.Infrastructure",
+        "projectPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\canca\\.nuget\\packages\\",
+        "outputPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\canca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Rewrite": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

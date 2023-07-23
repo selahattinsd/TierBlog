@@ -1,0 +1,12 @@
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\bin\Debug\net6.0\TierBlog.WebUI.Infrastructure.deps.json
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\bin\Debug\net6.0\TierBlog.WebUI.Infrastructure.dll
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\bin\Debug\net6.0\TierBlog.WebUI.Infrastructure.pdb
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.csproj.AssemblyReference.cache
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.AssemblyInfoInputs.cache
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.AssemblyInfo.cs
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.dll
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\refint\TierBlog.WebUI.Infrastructure.dll
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.pdb
+D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\ref\TierBlog.WebUI.Infrastructure.dll
