@@ -10,3 +10,15 @@ D:\Backend\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.dll
 D:\Backend\TierBlog\TierBlog-Model\obj\Debug\net6.0\refint\TierBlog-Model.dll
 D:\Backend\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.pdb
 D:\Backend\TierBlog\TierBlog-Model\obj\Debug\net6.0\ref\TierBlog-Model.dll
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\bin\Debug\net6.0\TierBlog-Model.deps.json
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\bin\Debug\net6.0\TierBlog-Model.dll
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\bin\Debug\net6.0\TierBlog-Model.pdb
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.csproj.AssemblyReference.cache
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.AssemblyInfoInputs.cache
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.AssemblyInfo.cs
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.dll
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\refint\TierBlog-Model.dll
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\TierBlog-Model.pdb
+C:\Users\Murat\Source\Repos\TierBlog\TierBlog-Model\obj\Debug\net6.0\ref\TierBlog-Model.dll

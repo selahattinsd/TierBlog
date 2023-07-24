@@ -10,3 +10,15 @@ D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlo
 D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\refint\TierBlog.WebUI.Infrastructure.dll
 D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.pdb
 D:\Backend\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\ref\TierBlog.WebUI.Infrastructure.dll
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\bin\Debug\net6.0\TierBlog.WebUI.Infrastructure.deps.json
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\bin\Debug\net6.0\TierBlog.WebUI.Infrastructure.dll
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\bin\Debug\net6.0\TierBlog.WebUI.Infrastructure.pdb
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.AssemblyInfo.cs
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.dll
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\refint\TierBlog.WebUI.Infrastructure.dll
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\TierBlog.WebUI.Infrastructure.pdb
+C:\Users\Murat\Source\Repos\TierBlog\WebUI\TierBlog.WebUI.Infrastructure\obj\Debug\net6.0\ref\TierBlog.WebUI.Infrastructure.dll

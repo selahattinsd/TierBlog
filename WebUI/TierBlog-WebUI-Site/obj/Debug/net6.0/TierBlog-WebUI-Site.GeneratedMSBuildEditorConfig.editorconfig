@@ -9,25 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TierBlog_WebUI_Site
 build_property.RootNamespace = TierBlog_WebUI_Site
-build_property.ProjectDir = D:\Backend\TierBlog\WebUI\TierBlog-WebUI-Site\
+build_property.ProjectDir = C:\Users\Murat\source\repos\TierBlog\WebUI\TierBlog-WebUI-Site\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Backend\TierBlog\WebUI\TierBlog-WebUI-Site
+build_property.MSBuildProjectDirectory = C:\Users\Murat\source\repos\TierBlog\WebUI\TierBlog-WebUI-Site
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Backend/TierBlog/WebUI/TierBlog-WebUI-Site/Views/Home/Index.cshtml]
+[C:/Users/Murat/source/repos/TierBlog/WebUI/TierBlog-WebUI-Site/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Backend/TierBlog/WebUI/TierBlog-WebUI-Site/Views/Shared/_Layout.cshtml]
+[C:/Users/Murat/source/repos/TierBlog/WebUI/TierBlog-WebUI-Site/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Backend/TierBlog/WebUI/TierBlog-WebUI-Site/Views/_ViewImports.cshtml]
+[C:/Users/Murat/source/repos/TierBlog/WebUI/TierBlog-WebUI-Site/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Backend/TierBlog/WebUI/TierBlog-WebUI-Site/Views/_ViewsStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdzU3RhcnQuY3NodG1s
+[C:/Users/Murat/source/repos/TierBlog/WebUI/TierBlog-WebUI-Site/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

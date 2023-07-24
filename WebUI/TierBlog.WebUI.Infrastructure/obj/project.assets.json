@@ -671,19 +671,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\canca\\.nuget\\packages\\": {}
+    "C:\\Users\\Murat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Murat\\Source\\Repos\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj",
       "projectName": "TierBlog.WebUI.Infrastructure",
-      "projectPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\canca\\.nuget\\packages\\",
-      "outputPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Murat\\Source\\Repos\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Murat\\Source\\Repos\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\canca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Murat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0lAVOZOP+rOPJKH5tC3OkFORVLBsD1a7LkFY/0B3vWrlHWPnqeVRFYZ+DhJ6pqkQAUqEV9uupQFsHxHvcJtXA==",
+  "dgSpecHash": "SIQtJeeCfwNwmpu26s70WE5SkYC9lh0T/9uVMMwIquP39DLY8cIhx0SzyPhu3nMW9AEN6MhrfbN5ykYhzN1HUQ==",
   "success": true,
-  "projectFilePath": "D:\\Backend\\TierBlog\\TierBlog-Model\\TierBlog-Model.csproj",
+  "projectFilePath": "C:\\Users\\Murat\\source\\repos\\TierBlog\\TierBlog-Model\\TierBlog-Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
