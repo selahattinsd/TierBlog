@@ -8062,19 +8062,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\canca\\.nuget\\packages\\": {}
+    "C:\\Users\\Murat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj",
+      "projectUniqueName": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj",
       "projectName": "TierBlog-WebUI-Site",
-      "projectPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj",
-      "packagesPath": "C:\\Users\\canca\\.nuget\\packages\\",
-      "outputPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\obj\\",
+      "projectPath": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\TierBlog-WebUI-Site.csproj",
+      "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\canca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Murat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8089,8 +8089,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj": {
-              "projectPath": "D:\\Backend\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj"
+            "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog.WebUI.Infrastructure\\TierBlog.WebUI.Infrastructure.csproj"
             }
           }
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LZ+TqCO4OHGmSuoFnq3sLbxYocKhoIl1Kxad8RKq3pM=",
+  "Hash": "jlXZpmN7lnrkvuDdrjVS81xrOzd0d1KFzTMSNWV0eHA=",
   "Source": "TierBlog-WebUI-Site",
   "BasePath": "_content/TierBlog-WebUI-Site",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TierBlog-WebUI-Site\\wwwroot",
       "Source": "TierBlog-WebUI-Site",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\animate.css",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\animate.css",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/animate.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\animate.css"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\bootstrap.css",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/bootstrap.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\bootstrap.css.map",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\media_query.css",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\media_query.css",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/media_query.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\media_query.css"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\owl.carousel.css",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/owl.carousel.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\owl.theme.default.css",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\owl.theme.default.css",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/owl.theme.default.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\owl.theme.default.css"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\style_1.css",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\style_1.css",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/style_1.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\style_1.css"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\style_1.css.map",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\css\\style_1.css.map",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/css/style_1.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\css\\style_1.css.map"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\10-1-1-875x500.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\10-1-1-875x500.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/10-1-1-875x500.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\10-1-1-875x500.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\32-450x260.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\32-450x260.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/32-450x260.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\32-450x260.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\39-324x235.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\39-324x235.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/39-324x235.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\39-324x235.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\abigail-keenan-65477.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\abigail-keenan-65477.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/abigail-keenan-65477.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\abigail-keenan-65477.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\allef-vinicius-108153.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\allef-vinicius-108153.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/allef-vinicius-108153.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\allef-vinicius-108153.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\ariel-lustre-208615.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\ariel-lustre-208615.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/ariel-lustre-208615.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\ariel-lustre-208615.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\camila-cordeiro-114636.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\camila-cordeiro-114636.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/camila-cordeiro-114636.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\camila-cordeiro-114636.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\country.png",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\country.png",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/country.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\country.png"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\download (1).jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\download (1).jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/download (1).jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\download (1).jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\download (2).jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\download (2).jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/download (2).jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\download (2).jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\download.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\download.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/download.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\download.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\footer_sub_tipik.png",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\footer_sub_tipik.png",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/footer_sub_tipik.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\footer_sub_tipik.png"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\joe-gardner-75333.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\joe-gardner-75333.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/joe-gardner-75333.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\joe-gardner-75333.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\logo.png",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\logo.png",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/logo.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\nathan-mcbride-229637.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\nathan-mcbride-229637.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/nathan-mcbride-229637.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\nathan-mcbride-229637.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\nick-karvounis-78711.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\nick-karvounis-78711.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/nick-karvounis-78711.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\nick-karvounis-78711.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\office-768x512.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\office-768x512.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/office-768x512.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\office-768x512.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\person_1.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\person_1.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/person_1.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\person_1.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\photo-1449157291145-7efd050a4d0e-578x362.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\photo-1449157291145-7efd050a4d0e-578x362.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/photo-1449157291145-7efd050a4d0e-578x362.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\photo-1449157291145-7efd050a4d0e-578x362.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\ryan-moreno-98837.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\ryan-moreno-98837.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/ryan-moreno-98837.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\ryan-moreno-98837.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\science-578x362.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\science-578x362.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/science-578x362.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\science-578x362.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\seth-doyle-133175.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\seth-doyle-133175.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/seth-doyle-133175.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\seth-doyle-133175.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\vil-son-35490.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\vil-son-35490.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/vil-son-35490.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\vil-son-35490.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\white_logo.png",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\white_logo.png",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/white_logo.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\white_logo.png"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\zack-minor-15104.jpg",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\images\\zack-minor-15104.jpg",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/images/zack-minor-15104.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\images\\zack-minor-15104.jpg"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\bootstrap.js",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/js/bootstrap.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\jquery.stellar.min.js",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\jquery.stellar.min.js",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/js/jquery.stellar.min.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\js\\jquery.stellar.min.js"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\jquery.waypoints.min.js",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\jquery.waypoints.min.js",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/js/jquery.waypoints.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\js\\jquery.waypoints.min.js"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\main.js",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\main.js",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/js/main.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\js\\main.js"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\modernizr-3.5.0.min.js",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\modernizr-3.5.0.min.js",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/js/modernizr-3.5.0.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\js\\modernizr-3.5.0.min.js"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\js\\owl.carousel.min.js",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\_assets\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\sass\\style_1.scss",
+      "Identity": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\_assets\\sass\\style_1.scss",
       "SourceId": "TierBlog-WebUI-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Backend\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Murat\\source\\repos\\TierBlog\\WebUI\\TierBlog-WebUI-Site\\wwwroot\\",
       "BasePath": "_content/TierBlog-WebUI-Site",
       "RelativePath": "_assets/sass/style_1.scss",
       "AssetKind": "All",

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\canca\\.nuget\\packages\\": {}
+    "C:\\Users\\Murat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backend\\TierBlog\\TierBlog-Model\\TierBlog-Model.csproj",
+      "projectUniqueName": "C:\\Users\\Murat\\Source\\Repos\\TierBlog\\TierBlog-Model\\TierBlog-Model.csproj",
       "projectName": "TierBlog-Model",
-      "projectPath": "D:\\Backend\\TierBlog\\TierBlog-Model\\TierBlog-Model.csproj",
-      "packagesPath": "C:\\Users\\canca\\.nuget\\packages\\",
-      "outputPath": "D:\\Backend\\TierBlog\\TierBlog-Model\\obj\\",
+      "projectPath": "C:\\Users\\Murat\\Source\\Repos\\TierBlog\\TierBlog-Model\\TierBlog-Model.csproj",
+      "packagesPath": "C:\\Users\\Murat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Murat\\Source\\Repos\\TierBlog\\TierBlog-Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\canca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Murat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
